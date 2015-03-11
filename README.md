@@ -15,6 +15,7 @@ In the effort to create such a place, we hold to these values:
 6. **Reactions require grace.** Angry responses are valid, but abusive language and vindictive actions are toxic. When something happens that offends you, handle it assertively, but be respectful. Escalate reasonably, and try to allow the offender an opportunity to explain themselves, and possibly correct the issue.
 7. **Opinions are just that: opinions.** Each and every one of us, due to our background and upbringing, have varying opinions. The fact of the matter, is that is perfectly acceptable. Remember this: if you respect your own opinions, you should respect the opinions of others.
 8. **To err is human.** You might not intend it, but mistakes do happen and contribute to build experience. Tolerate honest mistakes, and don't hesitate to apologize if you make one yourself.
+9. **Software has its own bias** Whether software is for-profit or not is immaterial. Software either follows market norms (product) or social norms (open source). Product is pragmatism. Open source is idealism. It is not an either/or proposition. The trick is to find a balance between the two. More importantly, leave unto each individual what is subjective, unto falsifiability what is objective.
 
 How to contribute
 =================
